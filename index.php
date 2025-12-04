@@ -3,7 +3,7 @@ echo $_POST['username'];
 echo $_POST['password'];
 
 
-put://input
+put://input 
 ?>; 
 
 
